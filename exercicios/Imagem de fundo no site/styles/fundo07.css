@@ -1,0 +1,25 @@
+@charset "UTF";
+
+#container{
+    background-image: url('../img/target001.png');
+    background-size: 100% 100%;
+
+    position: relative;
+    height: 100vh;
+    padding: 10px;
+    background-color: purple;
+}
+
+#conteudo{
+    background-image: url('../img/target001.png');
+    background-size: 100% 100%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    height: 200px;
+    width: 400px;
+    background-color: yellow;
+    transform: translate(-50%, -50%);
+}
