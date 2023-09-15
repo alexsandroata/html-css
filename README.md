@@ -1,3 +1,3 @@
 # html-css
- curso em video estou aprendendo muito
+ Meus estudos de HTML e CSS
  
