@@ -1,0 +1,15 @@
+#border-box {
+    box-sizing: border-box;
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    padding: 15px;
+    margin: 25px;
+    border: 2px double red;
+    border-radius: 15px;
+    outline: 2px solid red;
+}
+
+.titulo {
+    color: white;
+}
